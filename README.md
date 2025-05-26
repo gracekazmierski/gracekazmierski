@@ -1,17 +1,17 @@
 ### 👋 About Me  
 Hi, I’m **Grace Kazmierski**!  
 - 🎓 **Computer Science Major** at *Brigham Young University - Idaho*  
-- 🖥️ Currently focusing on **Data Visualization** and **Programming with Classes in C#**  
+- 🖥️ Currently focusing on **Machine Learning** and **Prompt Engineering**  
 - 🎯 Aspiring **Data Scientist** passionate about creating impactful **data visualizations**  
 - 📧 Reach me at: **gracekazmierski@byui.edu**  
 
 ---
 
 ### 🛠 Skills  
-- **Languages:** C#, Python, CSS/HTML5/JavaScript  
-- **Technologies:** Tableau, Pandas, SQL  
-- **Expertise:** Computer System Creation & Management, Data Visualization  
-- **Other Fun Skills:** Web development, building Arduinos, and video editing with AI
+- **Languages:** Python, C#, CSS/HTML5/JavaScript  
+- **Technologies:** Tableau, Pandas, SQL, Scikit
+- **Expertise:** Machine Learning, Data Visualization
+- **Other Fun Skills:** Web & Mobile development, UX Research, Prompt Engineering
 
 ⚡ **Fun Fact:** My dad and I built our own Escape Room!
 
